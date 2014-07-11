@@ -1,4 +1,4 @@
-homepap-documentation
+HomePAP Documentation
 =====================
 
-HomePAP documentation for sleepdata.org
+Version controlled repository for HomePAP documentation on [sleepdata.org](http://sleepdata.org/datasets/homepap)
