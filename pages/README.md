@@ -6,9 +6,9 @@ Learn more here: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3353048/
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from the HomePAP baseline and follow-up visits.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from baseline and follow-up visits.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight home- and lab-based polysomnography (PSG) data.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md)) <br/> Overnight home- and lab-based polysomnography (PSG) data from baseline visit.
 
 ## Recent changes
 
