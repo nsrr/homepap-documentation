@@ -1,10 +1,18 @@
 # About
 
+Paragraph summarizing HomePAP.
+
 Learn more here: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3353048/
 
 ## Data overview
 
-PSG and core data.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from the HomePAP baseline and follow-up visits.
+
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight home- and lab-based polysomnography (PSG) data.
+
+## Recent changes
+
+- Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
 ## Citation
 
