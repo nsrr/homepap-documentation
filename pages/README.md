@@ -12,7 +12,8 @@ Read more about HomePAP at [ClinicalTrials.gov (NCT00642486)](https://clinicaltr
 
 ## Protocols and manuals
 
-- Manual
+- [HomePAP Manual of Procedures](:files_path:/documentation?f=HomePAP_Manual_of_Procedures.pdf)
+- [HomePAP PSG Scoring Manual](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
 
 ## Recent changes
 

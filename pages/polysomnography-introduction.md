@@ -5,6 +5,7 @@ Data collection for PSG was standardized among various manufactured instruments 
 Notes:
 
 - Montage and Sampling Rate Information
+- [HomePAP PSG Scoring Manual](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
 
 ## Signal and annotation files
 
