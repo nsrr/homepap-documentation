@@ -6,9 +6,9 @@ Read more about HomePAP at [ClinicalTrials.gov (NCT00642486)](https://clinicaltr
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from baseline and follow-up visits.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from the baseline and follow-up visits.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md)) <br/> Overnight home- and lab-based polysomnography (PSG) data from baseline visit.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md)) <br/> Overnight home- and lab-based polysomnography (PSG) data from the baseline visit.
 
 ## Protocols and manuals
 
