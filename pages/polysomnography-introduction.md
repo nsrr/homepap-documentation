@@ -1,11 +1,11 @@
 # Polysomnography introduction
 
-Data collection for PSG was standardized among various manufactured instruments by use of standardized collection and display montages. Each unit used for collection was certified before use to maximize signal quality integrity throughout the EDF conversion and import into Compumedics Profusion software used for scoring.
+The HomePAP project includes lab-based and home-based polysomnography. Those randomized to the laboratory-based pathway underwent attended overnight PSG in an accredited sleep laboratory, followed by a second attended overnight PSG for titration with CPAP. If the apnea-hypopnea index (AHI) was ≥ 15 during the first two hours of the initial PSG, the patient proceeded with CPAP titration in the same night, termed a "split-night" study. Those randomized to the home-based pathway were given a portable limited-channel sleep monitoring device (EmblettaX-30, Embla Inc., Broomfield, CO, USA) which was taken home. These patients received standardized in-person training on how to apply the monitoring device on at night by personnel affiliated with each accredited sleep center, and technicians were available overnight by phone to answer any questions.
 
 Notes:
 
-- Montage and Sampling Rate Information
-- [HomePAP PSG Scoring Manual](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
+- Montage and Sampling Rate Information (*coming soon*)
+- [HomePAP PSG Scoring Manual (PDF)](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
 
 ## Signal and annotation files
 

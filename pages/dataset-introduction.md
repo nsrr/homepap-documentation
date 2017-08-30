@@ -23,6 +23,7 @@ Commonly used variables from the HomePAP dataset are listed below. [Click here t
 | [**nsrrid**](https://sleepdata.org/datasets/homepap/variables/nsrrid)            | NSRR Subject Identifier                                    |
 | [**age**](https://sleepdata.org/datasets/homepap/variables/age)                  | Age at baseline visit                                      |
 | [**gender**](https://sleepdata.org/datasets/homepap/variables/gender)            | Gender                                                     |
+| [**race3**](https://sleepdata.org/datasets/homepap/variables/race3)              | Race                                                       |
 | [**treatmentarm**](https://sleepdata.org/datasets/homepap/variables/treatmentarm)| Treatment arm (i.e. initial diagnostic study type pathway) |
-| [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi)                  | Final Apnea-Hypopnea Index (AHI) from diagnostic testing   |
+| [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi)                  | Final Apnea-Hypopnea Index (AHI)                           |
 | [**avgpapuse**](https://sleepdata.org/datasets/homepap/variables/avgpapuse)      | Average CPAP use per night                                 |
