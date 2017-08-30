@@ -16,5 +16,9 @@ The follow-up datasets also contain 373 records, though data will be missing for
 
 ## Key variables
 
-- [`treatmentarm`](https://sleepdata.org/datasets/homepap/variables/treatmentarm) - indicates the randomly assigned diagnostic pathway
-- [`avgpapuse`](https://sleepdata.org/datasets/homepap/variables/avgpapuse) - average CPAP use per night at the follow-up visits
+- [**nsrrid**](https://sleepdata.org/datasets/homepap/variables/nsrrid) - NSRR Subject Identifier
+- [**age**](https://sleepdata.org/datasets/homepap/variables/age) - Age
+- [**gender**](https://sleepdata.org/datasets/homepap/variables/age) - Gender
+- [**treatmentarm**](https://sleepdata.org/datasets/homepap/variables/treatmentarm) - Treatment arm (i.e. initial diagnostic study type pathway)
+- [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi) - Final Apnea-Hypopnea Index (AHI) from diagnostic testing
+- [**avgpapuse**](https://sleepdata.org/datasets/homepap/variables/avgpapuse) - Average CPAP use per night

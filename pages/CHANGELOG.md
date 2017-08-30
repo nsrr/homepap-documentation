@@ -1,3 +1,8 @@
+### August 30, 2017
+
+- Add key variables list to dataset introduction
+- Shorten introductory paragraph on README
+
 ### August 23, 2017
 
 - Add more notes to dataset introduction
