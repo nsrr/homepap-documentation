@@ -13,3 +13,8 @@ The HomePAP dataset is broken down into three (3) files that correspond to the m
 3. `month3` (Month 3 follow-up) - 140 subjects with data
 
 The follow-up datasets also contain 373 records, though data will be missing for subjects who did not complete these visits.
+
+## Key variables
+
+- [`treatmentarm`](https://sleepdata.org/datasets/homepap/variables/treatmentarm) - indicates the randomly assigned diagnostic pathway
+- [`avgpapuse`](https://sleepdata.org/datasets/homepap/variables/avgpapuse) - average CPAP use per night at the follow-up visits
