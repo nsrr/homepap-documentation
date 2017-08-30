@@ -19,7 +19,25 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 
 ## Known issues
 
-- <note discrepancies in file counts>
+*Home-based studies*
+
+- Most do not have analysis stop annotations
+- Some do not have analysis start nor stop annotations
+- The number of respiratory events listed in the annotation XML files will not always match the variable in the CSV dataset file
+- Pleth signals have a blank physical dimension
+- Position, Phase, and RMI signals contain a non-ASCII character for their physical dimensions.
+
+*Lab-based studies*
+
+- Studies collected from clusterids 33 and 90 do not contain pleth or leak signals
+- Studies collected from clusterid 90: the EEG, chin EMG, leg EMG, and ECG are linked signals. Some EOG signals are bipolar referenced. There is one study that the CannulaFlow signal looks like an ECG signal.  Pulse signals for this clusterid look like an ECG signal, the physical dimension is mV, not a typical physical dimension of bpm.  There is a DHR signal with a physical dimension of bpm.
+- Studies collected from clusterid 46: the EOG, chin EMG, and EEG are bipolar referenced.
+- Studies collected from clusterid 29: sometimes the chin EMG, EEG, and leg EMG signals are bipolar referenced. Sometimes the ECG signal is bipolar referenced.
+- Studies collected from clusterid 58: some studies contain duplicate signals, for example: snore, PAP, TcCO2, EtCO2, O1, O2, and Gravity. Some studies contained two signals with similar names, for example: CHEST and CHEST1. For duplicate or similar signals, it appears sometimes the signals are identical in morphology, other times the signals appear to have one authentic signal and another signal which contains noise/artifact.
+- Studies collected from clusterid 29: one study has an empty field at line 25.
+- Studies collected from clusterid 46: some studies contain duplicate named signals, for example, ECG, Pulse, and TidVol. Some of these duplicate named signals appear to be the same in morphology, some do not.
+- Studies collected from clusterid 58 may contain studies where the respiratory belts signals do not meet the minimum rate of 32 Hz.
+- Studies collected from clusterids 35, 29, and 46 may contain studies where the CannulaFlow signal does not meet the minimum rate of 128 Hz.
 
 ## History / changelog
 

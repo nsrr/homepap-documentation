@@ -21,6 +21,7 @@ Commonly used variables from the HomePAP dataset are listed below. [Click here t
 | Name                                                                             | Label                                                      |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [**nsrrid**](https://sleepdata.org/datasets/homepap/variables/nsrrid)            | NSRR Subject Identifier                                    |
+| [**clusterid**](https://sleepdata.org/datasets/homepap/variables/clusterid)      | Recoded Site Identifier                                    |
 | [**age**](https://sleepdata.org/datasets/homepap/variables/age)                  | Age at baseline visit                                      |
 | [**gender**](https://sleepdata.org/datasets/homepap/variables/gender)            | Gender                                                     |
 | [**race3**](https://sleepdata.org/datasets/homepap/variables/race3)              | Race                                                       |
