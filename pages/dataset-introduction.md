@@ -16,9 +16,13 @@ The follow-up datasets also contain 373 records, though data will be missing for
 
 ## Key variables
 
-- [**nsrrid**](https://sleepdata.org/datasets/homepap/variables/nsrrid) - NSRR Subject Identifier
-- [**age**](https://sleepdata.org/datasets/homepap/variables/age) - Age
-- [**gender**](https://sleepdata.org/datasets/homepap/variables/age) - Gender
-- [**treatmentarm**](https://sleepdata.org/datasets/homepap/variables/treatmentarm) - Treatment arm (i.e. initial diagnostic study type pathway)
-- [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi) - Final Apnea-Hypopnea Index (AHI) from diagnostic testing
-- [**avgpapuse**](https://sleepdata.org/datasets/homepap/variables/avgpapuse) - Average CPAP use per night
+Commonly used variables from the HomePAP dataset are listed below. [Click here to browse all dataset variables](ttps://sleepdata.org/datasets/homepap/variables/).
+
+| Name                                                                             | Label                                                      |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [**nsrrid**](https://sleepdata.org/datasets/homepap/variables/nsrrid)            | NSRR Subject Identifier                                    |
+| [**age**](https://sleepdata.org/datasets/homepap/variables/age)                  | Age                                                        |
+| [**gender**](https://sleepdata.org/datasets/homepap/variables/gender)            | Gender                                                     |
+| [**treatmentarm**](https://sleepdata.org/datasets/homepap/variables/treatmentarm)| Treatment arm (i.e. initial diagnostic study type pathway) |
+| [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi)                  | Final Apnea-Hypopnea Index (AHI) from diagnostic testing   |
+| [**avgpapuse**](https://sleepdata.org/datasets/homepap/variables/avgpapuse)      | Average CPAP use per night                                 |
