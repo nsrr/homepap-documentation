@@ -1,6 +1,6 @@
 # Polysomnography introduction
 
-The HomePAP project includes lab-based and home-based polysomnography. Those randomized to the laboratory-based pathway underwent attended overnight PSG in an accredited sleep laboratory, followed by a second attended overnight PSG for titration with CPAP. If the apnea-hypopnea index (AHI) was ≥ 15 during the first two hours of the initial PSG, the patient proceeded with CPAP titration in the same night, termed a "split-night" study. Those randomized to the home-based pathway were given a portable limited-channel sleep monitoring device (EmblettaX-30, Embla Inc., Broomfield, CO, USA) which was taken home. These patients received standardized in-person training on how to apply the monitoring device on at night by personnel affiliated with each accredited sleep center, and technicians were available overnight by phone to answer any questions.
+The HomePAP project includes lab-based and home-based polysomnography. Those randomized to the laboratory-based pathway underwent attended overnight PSG in an accredited sleep laboratory, followed by a second attended overnight PSG for titration with CPAP. If the apnea-hypopnea index (AHI) was ≥ 15 during the first two hours of the initial PSG, the patient proceeded with CPAP titration in the same night, termed a "split-night" study. Those randomized to the home-based pathway were given a portable limited-channel sleep monitoring device (EmblettaX-30, Embla Inc., Broomfield, CO, USA) which was taken home. These patients received standardized in-person training on how to apply the monitoring device at night by personnel affiliated with each accredited sleep center, and technicians were available overnight by phone to answer any questions.
 
 Notes:
 
@@ -36,7 +36,7 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 - Studies collected from clusterid 58: some studies contain duplicate signals, for example: snore, PAP, TcCO2, EtCO2, O1, O2, and Gravity. Some studies contained two signals with similar names, for example: CHEST and CHEST1. For duplicate or similar signals, it appears sometimes the signals are identical in morphology, other times the signals appear to have one authentic signal and another signal which contains noise/artifact.
 - Studies collected from clusterid 29: one study has an empty field at line 25.
 - Studies collected from clusterid 46: some studies contain duplicate named signals, for example, ECG, Pulse, and TidVol. Some of these duplicate named signals appear to be the same in morphology, some do not.
-- Studies collected from clusterid 58 may contain studies where the respiratory belts signals do not meet the minimum rate of 32 Hz.
+- Studies collected from clusterid 58 may contain studies where the respiratory belt signals do not meet the minimum rate of 32 Hz.
 - Studies collected from clusterids 35, 29, and 46 may contain studies where the CannulaFlow signal does not meet the minimum rate of 128 Hz.
 
 ## History / changelog
