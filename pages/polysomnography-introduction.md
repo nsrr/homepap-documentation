@@ -6,6 +6,7 @@ Notes:
 
 - Montage and Sampling Rate Information (*coming soon*)
 - [HomePAP PSG Scoring Manual (PDF)](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
+- The full-night lab PSG studies are from the initial overnight PSG (not the subsequent overnight for CPAP titration)
 
 ## Signal and annotation files
 
