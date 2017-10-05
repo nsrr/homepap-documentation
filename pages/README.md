@@ -15,6 +15,10 @@ Read more about HomePAP at [ClinicalTrials.gov (NCT00642486)](https://clinicaltr
 - [HomePAP Manual of Procedures (PDF)](:files_path:/documentation?f=HomePAP_Manual_of_Procedures.pdf)
 - [HomePAP PSG Scoring Manual (PDF)](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
 
+## Equipment
+
+- [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
+
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)

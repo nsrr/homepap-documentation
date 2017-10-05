@@ -4,7 +4,7 @@ The HomePAP project includes lab-based and home-based polysomnography. Those ran
 
 Notes:
 
-- Montage and Sampling Rate Information (*coming soon*)
+- [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 - [HomePAP PSG Scoring Manual (PDF)](:files_path:/documentation?f=HomePAP_PSG_Scoring_Manual.pdf)
 - The full-night lab PSG studies are from the initial overnight PSG (not the CPAP titration overnight)
 

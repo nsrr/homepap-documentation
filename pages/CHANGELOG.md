@@ -1,3 +1,7 @@
+### October 5, 2017
+
+- Add montage and sampling rate information
+
 ### August 30, 2017
 
 - Add key variables list to dataset introduction
