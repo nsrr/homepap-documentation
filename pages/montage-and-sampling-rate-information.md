@@ -5,7 +5,7 @@ The settings below represent the standards set at the beginning of the project. 
 ### Lab studies
 
 |  Channel                    |   Channel Derivation  |  Sampling Rate (Hz)           |  Sensor Type                |
-|:---------------------------:|:---------------------:|:-----------------------------:|:---------------------------:|
+|:----------------------------|:----------------------|:------------------------------|:----------------------------|
 | REF                         |                       | 200                           | Gold cup                    |
 | Ground                      |                       | 200                           | Gold cup                    |
 | E1                          | E1-REF (FPz)          | 200                           | Gold cup or Ag/AgCl patch   |
