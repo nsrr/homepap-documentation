@@ -39,3 +39,36 @@ Note: All EOG, EEG signals were to be collected to reference. This was not done 
 Signals will be collected unfiltered (at hardware settings). This may vary according to the acquisition system.
 
 Not all clusterids meet the minimum sampling rates, see [known issues list](:pages_path:/polysomnography-introduction.md) for more details.
+
+### Home studies
+
+|  Channel      |   Minimum Sampling Rate (Hz) (may be exceeded)  |
+|:--------------|:------------------------------------------------|
+| Nasal         | 20                                              |
+| EKG           | 200                                             |
+| Thermistor    | 10                                              |
+| Thorax        | 10                                              |
+| Abdomen       | 10                                              |
+| Gravity X     | 10                                              |
+| Gravity Y     | 10                                              |
+| Battery       | 2                                               |
+| Snore         | 10                                              |
+| SpO2          | 3                                               |
+| SpO2-BB       | 3                                               |
+| Pulse         | 3                                               |
+| RD-Pleth      | 75                                              |
+| SpO2-quality  | 3                                               |
+| RD-Quality    | 75                                              |
+| Flow          | 20                                              |
+| Activity      | 10                                              |
+| Elevation     | 10                                              |
+| Position      | 10                                              |
+| Phase         | 10                                              |
+| RMI           | 10                                              |
+| RR            | 1                                               |
+| XSum          | 10                                              |
+| Tidal Volume  | 10                                              |
+| XFlow_PDS     | 10                                              |
+| Flattening    | 50                                              |
+
+No hardware filters were applied.
