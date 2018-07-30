@@ -28,3 +28,13 @@ Commonly used variables from the HomePAP dataset are listed below. [Click here t
 | [**treatmentarm**](https://sleepdata.org/datasets/homepap/variables/treatmentarm)| Treatment arm (i.e. initial diagnostic study type pathway) |
 | [**ahi**](https://sleepdata.org/datasets/homepap/variables/ahi)                  | Final Apnea-Hypopnea Index (AHI)                           |
 | [**avgpapuse**](https://sleepdata.org/datasets/homepap/variables/avgpapuse)      | Average CPAP use per night                                 |
+
+## Data collection forms
+
+The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/heartbeat/variables) to give users a better idea about the origins of the underlying data.
+
+The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
