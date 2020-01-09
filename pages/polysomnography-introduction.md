@@ -27,6 +27,7 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 - The number of respiratory events listed in the annotation XML files will not always match the variable in the CSV dataset file
 - Pleth signals have a blank physical dimension
 - Position, Phase, and RMI signals contain a non-ASCII character for their physical dimensions.
+- Scoring data (XML annotations) are not available for three subjects (1600261, 1600324, 1600350) due to data loss
 
 *Lab-based studies*
 
