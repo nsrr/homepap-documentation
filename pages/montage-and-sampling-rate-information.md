@@ -29,7 +29,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Left Leg EMG          | LLeg                       | LLeg        | Fpz     | 200                          | -                     | Gold cup or Ag/AgCl patch         |
 | Right Leg EMG         | RLeg                       | RLeg        | Fpz     | 200                          | -                     | Gold cup or Ag/AgCl patch         |
 | Snore                 | Snore (not required)       | Snore       | -       | 200                          | -                     | -                                 |
-| Thermistor            | Airflow                    | Airflow     | -       | 32                           | -                     | Variable by site                  |
+| Airflow            | Airflow                    | Airflow     | -       | 32                           | -                     | Variable by site                  |
 | Nasal Pressure        | CannulaFlow                | CannulaFlow | -       | 128                          | -                     | Variable by site                  |
 | Sum                   | Sum                        | Sum         | -       | 32                           | -                     | Variable by site                  |
 | Thorax                | Chest                      | Chest       | -       | 32                           | -                     | Variable by site                  |
